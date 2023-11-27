@@ -1,22 +1,22 @@
 <!DOCTYPE html>
 <html> 
     <head>
-        <title>Lab2 Josh</title>
+        <title>Lab4 Josh</title>
     </head>
     <body>
             <div id="page-wrapper">
                 <header> 
-                   <title> Lab4 </title>
+                   <title> Joshua Hayes </title>
                 </header>
             
             <nav>
-                <ul> <!--Put nav titles-->
-                    <li> </li>
-                    <li> </li>
-                    <li> </li>
-                    <li> </li>
-                    <li> </li>
-                    <li> </li>
+                <ul> 
+                    <li> Home</li>
+                    <li> About me</li>
+                    <li> Portfolio</li>
+                    <li> Work Experience</li>
+                    <li> Goals and Aspirations</li>
+                    <li> Contact </li>
                 </ul>
             </nav>
 
