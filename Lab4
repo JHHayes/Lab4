@@ -3,3 +3,15 @@
         <title>Lab2 Josh</title>
     </head>
     <body>
+        <div id="page">
+            <div id="page-wrapper">
+                <header>
+                </header>
+            
+            <nav>
+
+            </nav>
+
+            <div id="main-content"> 
+
+            </div>
