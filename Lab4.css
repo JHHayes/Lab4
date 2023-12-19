@@ -16,7 +16,12 @@ text-align: center;
 nav{
 margin: 2vw;
 padding:1vw;
+
 }
 nav a:hover{
     color:teal;
+}
+header{
+    font-family:helvetica, serif;
+    font-size:3vw;
 }
