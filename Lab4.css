@@ -13,3 +13,10 @@ list-style-type: none;
 text-align: center;
 color:teal;
 }
+nav{
+margin: 2vw;
+padding:1vw;
+}
+nav a:hover{
+    color:blue;
+}
