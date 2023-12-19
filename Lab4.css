@@ -28,3 +28,13 @@
     width:800px;
     color: violet;
   }
+  nav li{
+    display:inline;
+padding:3vw;
+font-size:1vw;
+margin:1vw;
+}
+nav ul{
+list-style-type: none;
+text-align: center;
+color:teal;
