@@ -1,7 +1,8 @@
 nav a{
     font-weight: 2vw;
     text-decoration:none;
-    }
+    color:black;
+}
   nav li{
     display:inline;
 padding:3vw;
@@ -11,7 +12,6 @@ margin:1vw;
 nav ul{
 list-style-type: none;
 text-align: center;
-color:black;
 }
 nav{
 margin: 2vw;
