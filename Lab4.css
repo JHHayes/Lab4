@@ -1,33 +1,7 @@
-.list-item-2{background-color: lightseagreen;
-    font-size: 20px;
-    width: fit-content;
-    color:lightsalmon;
-}  
-.list-item-3{background-color: #F8FFD2
-    font-size:20px;
-    width:600px;
-    color: #DF826C 
-}
-.list-item-4{background-color: #7071E8;
-    font-size: 20px;
-    width:400px;
-    color: #89B9AD
-}
-.list-item-5{background-color: #FF6C22;
-    font-size: 20px;
-    width: 200px;
-    color: #A9A9A9
-}
-.list-item-6{background-color: #FFFFDD;
-    font-size: 20px;
-    width: max-content;
-    color: #D2DE32;
-}
-.list-item-1{background-color:lightyellow;
-    font-size:20px;
-    width:800px;
-    color: violet;
-  }
+nav a{
+    font-weight: 2vw;
+    text-decoration:none;
+    }
   nav li{
     display:inline;
 padding:3vw;
